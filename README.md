@@ -1,1 +1,1 @@
-# nifty-50
+# This is readme for nifty-50.
